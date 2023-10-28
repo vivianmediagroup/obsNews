@@ -1,7 +1,7 @@
 <?php
 // DO NOT EDIT UNLESS YOU KNOW EXACTLY WHAT YOU'RE DOING!
-$currentVer = 1;
-$githubUser = 'vivianmediagroup';
+$currentVer = 1.1;
+$githubUser = 'vivianmediagroup'; //You will need to set this in update.php, as well (since it's separate from the core.php)
 
 $file_path = 'obsnewsstorage/currentVer.txt';
 if (file_exists($file_path)) {
