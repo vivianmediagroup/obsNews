@@ -8,6 +8,8 @@ If you create a modified version of the code and intend to distribute it as an o
 - Clearly and prominently include an unambiguous attribution to the original VMG project in your project's README or documentation.
 - Make your modified code freely available as open-source.
 
+It shall be noted that modified versions cannot be sold and must be made open-source. If you wish to sell a modified version, you must first make an agreement with VMG regarding compensation.
+
 ## Commercial Use by Businesses
 Businesses may use the code under the following conditions:
 - Businesses are required to make a donation of any amount at [https://www.buymeacoffee.com/myvmg](https://www.buymeacoffee.com/myvmg) as compensation for their use of the code.
